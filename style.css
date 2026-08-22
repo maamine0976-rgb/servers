@@ -1,3 +1,7 @@
+body{
+    background-color: #274DF5;
+    color: white;
+}
 .zone-code {
     position: absolute;
     top: 10px;
